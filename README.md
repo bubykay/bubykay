@@ -13,6 +13,6 @@ I'm a Software Development Engineer in Test (SDET) with a strong foundation in b
 I'm a continuous learner who stays up-to-date with the latest advancements in the web development and testing landscapes. I actively engage in online courses, tutorials, and hackathons to expand my knowledge and skillset.
 
 ## Contact
-Feel free to reach out to me via [email](mailto:bubykay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/).
+Feel free to reach out to me via [email](mailto:bubykay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kayode-adetayo/).
 
 I'm always open to collaborating on interesting projects and learning from others.
