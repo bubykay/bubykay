@@ -16,3 +16,8 @@ I'm a continuous learner who stays up-to-date with the latest advancements in th
 Feel free to reach out to me via [email](mailto:bubykay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kayode-adetayo/).
 
 I'm always open to collaborating on interesting projects and learning from others.
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=bubykay&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/bubykay/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=bubykay&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bubykay/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubykay)](https://github.com/bubykay/github-readme-stats)
