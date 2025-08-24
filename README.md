@@ -7,8 +7,10 @@
 ---
 
 ## 👨‍💻 About Me
-I'm a **Software Development Engineer in Test (SDET)** with a strong foundation in building **modern web applications** and crafting **robust, automated tests**.  
-I thrive in collaborative environments and am passionate about **quality engineering**, **scalable applications**, and **continuous learning**.
+
+I’m a **Software Development Engineer in Test (SDET)** specializing in **automation frameworks**, **CI/CD integration**, and **quality engineering for modern applications**.  
+I combine strong development skills in **JavaScript/TypeScript** with experience in **React** and **Node.js** to create **robust test solutions and scalable systems**.  
+My focus is on **building reliable software through automated testing, cloud readiness, and continuous improvement**.
 
 ---
 
@@ -25,17 +27,9 @@ I thrive in collaborative environments and am passionate about **quality enginee
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+ 
 
-
----
-
-## 📜 Certifications
-- University of Helsinki — Full Stack Open  
-- University of Helsinki — TypeScript  
-- Udemy — SDET  
-- HackerRank — Frontend Developer (React)  
-- MOOC.fi — Java I & II  
-
+ 
 ---
 
 ## 📈 GitHub Stats
