@@ -1,26 +1,61 @@
-# [Kayode A. Adetayo](https://github.com/bubykay)
-I'm a Software Development Engineer in Test (SDET) with a strong foundation in both building modern web applications and crafting robust tests. I leverage my expertise in React, Nest.js/Express (backend frameworks), React Native (Mobile) and Electron (desktop app development) to deliver high-quality, secure software. My analytical thinking and automation skills ensure comprehensive testing coverage, leading to reliable and bug-free applications. I thrive in collaborative environments and am passionate about creating a culture of quality within the tech industry.
+# Hi there, I'm Kayode A. Adetayo 👋  
+![Profile Views](https://komarev.com/ghpvc/?username=bubykay&label=Profile%20views&style=flat-square&color=0e75b6)
+[![GitHub](https://img.shields.io/badge/GitHub-bubykay-black?style=flat-square&logo=github)](https://github.com/bubykay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kayode-adetayo/)
+[![Email](https://img.shields.io/badge/Email-bubykay%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bubykay@gmail.com)
 
-## Skills
-* **Frontend:** React with Redux,
-* **Backend:** Nest.js, Express.js, Django Restful
-* **Testing:** Unit testing (Jest, Mocha), integration testing (Cypress, Playwright), end-to-end testing (Selenium WebDriver)
-* **Version Control:** Git
-* **Programming Language:** Javascript, Python, Java 
+---
 
-[![Node.js](https://img.shields.io/badge/Node.js-Advanced-green)](https://nodejs.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-green)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![CSS](https://img.shields.io/badge/CSS-Advanced-green)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Python](https://img.shields.io/badge/Python-Intermediate-yellow)](https://www.python.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-yellow)](https://www.typescriptlang.org/)
+## 👨‍💻 About Me
+I'm a **Software Development Engineer in Test (SDET)** with a strong foundation in building **modern web applications** and crafting **robust, automated tests**.  
+I thrive in collaborative environments and am passionate about **quality engineering**, **scalable applications**, and **continuous learning**.
+
+---
+
+## 🛠️ Skills
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 
-## Learning
-I'm a continuous learner who stays up-to-date with the latest advancements in the web development and testing landscapes. I actively engage in online courses, tutorials, and hackathons to expand my knowledge and skillset.
+---
 
-## Contact
-Feel free to reach out to me via [email](mailto:bubykay@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/kayode-adetayo/).
+## 📜 Certifications
+- University of Helsinki — Full Stack Open  
+- University of Helsinki — TypeScript  
+- Udemy — SDET  
+- HackerRank — Frontend Developer (React)  
+- MOOC.fi — Java I & II  
 
-I'm always open to collaborating on interesting projects and learning from others.
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bubykay&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bubykay&layout=compact&theme=tokyonight)  
+
+---
+
+<details>
+<summary>📍 My Career Roadmap (Click to Expand)</summary>
+
+![Roadmap](assets/roadmap.png)
+
+➡ For a detailed text version, check out my [ROADMAP.md](ROADMAP.md)
+</details>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubykay&layout=pie)
+---
 
-
-
+## 📫 Contact Me
+📧 Email: [bubykay@gmail.com](mailto:bubykay@gmail.com)  
+💼 LinkedIn: [Kayode A. Adetayo](https://www.linkedin.com/in/kayode-adetayo/)  
+🌐 GitHub: [bubykay](https://github.com/bubykay)
